@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CT_Assaignment_3</string>
+
+    <string name="strike_line"> <strike>$499.99 </strike> </string>
+</resources>
